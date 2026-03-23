@@ -11,7 +11,7 @@ Una colección de ejercicios de Python para principiantes realizados a través d
 ```
 python-exercises/
 │
-├── 01_condicionales/
+├── Conditionals/
 │   ├── coin_flip.py        # if/else con random
 │   ├── grades.py           # condicional simple con input
 │   ├── magic8.py           # múltiples ramas elif
@@ -19,11 +19,11 @@ python-exercises/
 │   ├── sorting_hat.py      # lógica con múltiples condiciones
 │   └── the_cyclone.py      # condiciones combinadas (and)
 │
-├── 02_bucles/
+├── Loops/
 │   ├── enter_pin.py        # bucle while
 │   └── guess.py            # while con múltiples condiciones
 │
-├── 03_listas_y_funciones/
+├── Lists and functions/
 │   ├── fortune.py          # funciones + random
 │   ├── inventory.py        # listas, min/max
 │   ├── menu.py             # funciones con parámetros
