@@ -11,7 +11,7 @@ A collection of beginner Python exercises completed through [Codedex](https://ww
 ```
 python-exercises/
 │
-├── 01_conditionals/
+├── Conditionals/
 │   ├── coin_flip.py        # if/else with random
 │   ├── grades.py           # simple conditional with input
 │   ├── magic8.py           # multiple elif branches
@@ -19,11 +19,11 @@ python-exercises/
 │   ├── sorting_hat.py      # logic with multiple conditions
 │   └── the_cyclone.py      # combined conditions (and)
 │
-├── 02_loops/
+├── Loops/
 │   ├── enter_pin.py        # while loop
 │   └── guess.py            # while with multiple conditions
 │
-├── 03_lists_and_functions/
+├── Lists_and_functions/
 │   ├── fortune.py          # functions + random
 │   ├── inventory.py        # lists, min/max
 │   ├── menu.py             # functions with parameters
