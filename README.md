@@ -1,6 +1,3 @@
-# python-excercises
-Begginner python excercises, covering conditionals, loops, lists and functions. Built through Codédex.
-
 # 🐍 Python Exercises
 
 A collection of beginner Python exercises completed through [Codedex](https://www.codedex.io/), organized by topic. This repo documents my learning process as I get comfortable with Python fundamentals.
