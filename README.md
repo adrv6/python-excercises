@@ -3,35 +3,15 @@ A collection of beginner Python exercises completed through [Codedex](https://ww
 > Made by [@adrv6](https://github.com/adrv6)
 ---
 ## 📂 Structure
-\```
-python-exercises/
-│
-├── Conditionals/
-│   ├── coin_flip.py        # if/else with random
-│   ├── grades.py           # simple conditional with input
-│   ├── magic8.py           # multiple elif branches
-│   ├── ph_levels.py        # chained elif
-│   ├── sorting_hat.py      # logic with multiple conditions
-│   └── the_cyclone.py      # combined conditions (and)
-│
-├── Loops/
-│   ├── enter_pin.py        # while loop
-│   └── guess.py            # while with multiple conditions
-│
-├── List and functions/
-│   ├── fortune.py          # functions + random
-│   ├── inventory.py        # lists, min/max
-│   ├── menu.py             # functions with parameters
-│   ├── prices.py           # functions + lists + loops
-│   ├── reading_list.py     # list manipulation
-│   └── anime_list.py       # list operations (count, index, pop, set)
-│
-├── Codewars/
-│   ├── likes.py            # "Who likes this?" - conditionals + f-strings
-│   └── array_diff.py       # "Array Difference" - list filtering + loops
-│
-└── README.md
-\```
+
+**`Conditionals/`** — Exercises using `if`, `elif`, and `else` to handle different conditions and logic branches.
+
+**`Loops/`** — Exercises focused on `while` loops and iteration control.
+
+**`List and functions/`** — Exercises combining list manipulation with custom functions and parameters.
+
+**`Codewars/`** — Kata solutions from Codewars, each tackling a specific problem or algorithm.
+
 ---
 ## 🧠 Topics Covered
 - Conditionals (`if`, `elif`, `else`)
@@ -52,7 +32,7 @@ python-exercises/
 Make sure you have Python 3 installed. Then run any file like this:
 ```bash
 python coin_flip.py
-\```
+```
 Some exercises require user input — just follow the prompts in the terminal.
 ---
 ## 📌 Notes
