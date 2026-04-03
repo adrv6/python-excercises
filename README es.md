@@ -31,3 +31,15 @@ Una colección de ejercicios de Python para principiantes completados a través 
 ## ▶️ Cómo ejecutar
 Asegúrate de tener Python 3 instalado. Luego ejecuta cualquier archivo así:
 ```bash
+python coin_flip.py
+```
+Algunos ejercicios requieren entrada del usuario — sigue las instrucciones que aparecen en la terminal.
+---
+## 📌 Notas
+Estos son ejercicios de aprendizaje, no código de producción. Algunos archivos son intencionalmente simples — el objetivo era entender el concepto, no escribir la solución más optimizada.
+
+---
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Codedex](https://img.shields.io/badge/Curso-Codedex-blueviolet)
+![Codewars](https://img.shields.io/badge/Katas-Codewars-red)
+![Estado](https://img.shields.io/badge/Estado-En%20progreso-yellow)
