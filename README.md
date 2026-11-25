@@ -36,7 +36,7 @@ python coin_flip.py
 Some exercises require user input — just follow the prompts in the terminal.
 ---
 ## 📌 Notes
-These are learning exercises, not production code. Some files are intentionally simple — the goal was understanding the concept, not writing the most optimized solution.
+These are learning exercises, not production code. Some files are intentionally simple — the goal was understanding the concept.
 
 ---
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
